@@ -14,10 +14,60 @@
 
 ## Опции
 
-- Download the official MoggyDay Phantom Blade Zero trainer +54: Qi
-- parry
-- stances
-- blade in TrainerHub. The option list matches the launcher pack.
+- God Mode
+- Infinite Health
+- Infinite Qi
+- Infinite Stamina
+- Perfect Parry
+- Infinite Parry Window
+- Edit Health
+- Edit Qi
+- No Skill Cooldown
+- Infinite Skill Uses
+- Unlock All Weapons
+- Unlock All Stances
+- Unlock All Skills
+- Instant Stance Unlock
+- Super Damage
+- One Hit Kill
+- Freeze Enemies
+- Instant Stance Break
+- Super Speed
+- No Fall Damage
+- No Clip
+- Edit Level
+- Exp Multiplier
+- Max Cultivation
+- Unlock All Outfits
+- Infinite Item Uses
+- Max Stack Size
+- Unlock All Areas
+- Reveal Secrets
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Save Position
+- Load Position
+- Infinite Weapon Durability
+- Unlock All Blade Arts
+- No Qi Cost
+- Infinite Finishers
+- Skip Boss Phase
+- Unlock All Lore
+- Max Poise / Super Armor
+- Instant Rest / Checkpoint
+- Keep Currency On Death
+- Infinite Upgrade Materials
+- Instant Weapon Upgrade
+- Unlock All Charms
+- Easy Martial Trials
+- Infinite Phantom Blade
+- No Posture Break
+- Unlock All Endings
+- Infinite Consumables
+- Max Spirit / Focus
+- Unlock All Combos
+- No Camera Lock Loss
 
 ## Куда жать
 
