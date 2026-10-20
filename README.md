@@ -1,9 +1,23 @@
-# Phantom Blade Zero trainer +54: Qi, parry, stances, blade [v1.0.0]
+# Phantom Blade Zero Trainer (+54) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer) · [Скачать RU](https://moggydaytrainer.com/f/phantom-blade-0-trainer) · [Phantom Blade Zero hub](https://moggydaytrainer.com/g/phantom-blade-0) · [Phantom Blade Zero news](https://moggydaytrainer.com/g/phantom-blade-0/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/phantom-blade-0-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/phantom-blade-0-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/phantom-blade-0-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/phantom-blade-0"><img alt="Game hub" src="https://img.shields.io/badge/Phantom%20Blade%20Zero%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-MoggyDay keeps one stable URL for Phantom Blade Zero: [EN](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer) / [RU](https://moggydaytrainer.com/f/phantom-blade-0-trainer). Build v1.0.0 advertises +54 — Download the official MoggyDay Phantom Blade Zero trainer +54: Qi, parry, stances, blade in TrainerHub. The option list matches the launcher pack.. This README is expanded from that listing so `Phantom Blade Zero trainer 2026` has a real page with screenshots instead of a one-line stub.
+MoggyDay hosts the official **Phantom Blade Zero** trainer for Windows (v1.0.0, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About Phantom Blade Zero
+
+Phantom Blade Zero is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 4115450).
+
+## About the MoggyDay trainer
+
+MoggyDay keeps one stable URL for Phantom Blade Zero: [EN](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer) / [RU](https://moggydaytrainer.com/f/phantom-blade-0-trainer). Build v1.0.0 advertises +54 — God Mode, Infinite Health, Infinite Qi, Infinite Stamina, Perfect Parry. This README is expanded from that listing so `Phantom Blade Zero trainer 2026` has a real page with screenshots instead of a one-line stub.
 
 ## Screenshots
 
@@ -19,89 +33,139 @@ Shots from the live [Phantom Blade Zero trainer page](https://moggydaytrainer.co
 
 [![Phantom Blade Zero options 3](https://moggydaytrainer.com/media/shots/hub-phantom-blade-0/fn-3.png)](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer)
 
-## Who this is for
+## Trainer features (+54)
 
-For Phantom Blade Zero on Windows. The trainer is a separate process next to the game, not a Steam workshop mod. Read the option names on the download page before you enable everything at once.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | God Mode | Player | Num 1 | Toggle |
+| 2 | Infinite Health | Player | Num 2 | Toggle |
+| 3 | Infinite Qi | Qi | Num 3 | Toggle |
+| 4 | Infinite Stamina | Player | Num 4 | Toggle |
+| 5 | Perfect Parry | Combat | Num 5 | Toggle |
+| 6 | Infinite Parry Window | Combat | Num 6 | Toggle |
+| 7 | Edit Health | Player | Num 7 | Value |
+| 8 | Edit Qi | Qi | Num 8 | Value |
+| 9 | No Skill Cooldown | Skills | Num 9 | Toggle |
+| 10 | Infinite Skill Uses | Skills | Num 0 | Toggle |
+| 11 | Unlock All Weapons | Unlocks | Num . | Toggle |
+| 12 | Unlock All Stances | Unlocks | Num * | Toggle |
+| 13 | Unlock All Skills | Unlocks | Num + | Toggle |
+| 14 | Instant Stance Unlock | Progress | Num - | Toggle |
+| 15 | Super Damage | Combat | Ctrl+Num 1 | Toggle |
+| 16 | One Hit Kill | Combat | Ctrl+Num 2 | Toggle |
+| 17 | Freeze Enemies | Combat | Ctrl+Num 3 | Toggle |
+| 18 | Instant Stance Break | Combat | Ctrl+Num 4 | Toggle |
+| 19 | Super Speed | Movement | Ctrl+Num 5 | Toggle |
+| 20 | No Fall Damage | Movement | Ctrl+Num 6 | Toggle |
+| 21 | No Clip | Movement | Ctrl+Num 7 | Toggle |
+| 22 | Edit Level | Progress | Ctrl+Num 8 | Value |
+| 23 | Exp Multiplier | Progress | Ctrl+Num 9 | Value |
+| 24 | Max Cultivation | Progress | Ctrl+Num 0 | Toggle |
+| 25 | Unlock All Outfits | Unlocks | Ctrl+Num . | Toggle |
+| 26 | Infinite Item Uses | Items | Ctrl+Num * | Toggle |
+| 27 | Max Stack Size | Items | Ctrl+Num + | Toggle |
+| 28 | Unlock All Areas | Unlocks | Ctrl+Num - | Toggle |
+| 29 | Reveal Secrets | World | Alt+Num 1 | Toggle |
+| 30 | Freeze Time | Time | Alt+Num 2 | Toggle |
+| 31 | Set Game Speed | Time | Alt+Num 3 | Speed |
+| 32 | Slow Motion | Time | Alt+Num 4 | Toggle |
+| 33 | Save Position | Misc | Alt+Num 5 | Toggle |
+| 34 | Load Position | Misc | Alt+Num 6 | Toggle |
+| 35 | Infinite Weapon Durability | Weapons | Alt+Num 7 | Toggle |
+| 36 | Unlock All Blade Arts | Unlocks | Alt+Num 8 | Toggle |
+| 37 | No Qi Cost | Qi | Alt+Num 9 | Toggle |
+| 38 | Infinite Finishers | Combat | Alt+Num 0 | Toggle |
+| 39 | Skip Boss Phase | Combat | Alt+Num . | Toggle |
+| 40 | Unlock All Lore | Unlocks | Alt+Num * | Toggle |
+| 41 | Max Poise / Super Armor | Combat | Alt+Num + | Toggle |
+| 42 | Instant Rest / Checkpoint | Progress | Alt+Num - | Toggle |
+| 43 | Keep Currency On Death | Economy | Shift+F1 | Toggle |
+| 44 | Infinite Upgrade Materials | Resources | Shift+F2 | Toggle |
+| 45 | Instant Weapon Upgrade | Weapons | Shift+F3 | Toggle |
+| 46 | Unlock All Charms | Unlocks | Shift+F4 | Toggle |
+| 47 | Easy Martial Trials | Progress | Shift+F5 | Toggle |
+| 48 | Infinite Phantom Blade | Weapons | Shift+F6 | Toggle |
+| 49 | No Posture Break | Combat | Shift+F7 | Toggle |
+| 50 | Unlock All Endings | Unlocks | Shift+F8 | Toggle |
+| 51 | Infinite Consumables | Items | Shift+F9 | Toggle |
+| 52 | Max Spirit / Focus | Stats | Shift+F10 | Toggle |
+| 53 | Unlock All Combos | Skills | Shift+F11 | Toggle |
+| 54 | No Camera Lock Loss | Misc | Shift+F12 | Toggle |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/phantom-blade-0-trainer](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/phantom-blade-0-trainer](https://moggydaytrainer.com/f/phantom-blade-0-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/phantom-blade-0](https://moggydaytrainer.com/g/phantom-blade-0) |
-| Trainers tab | [https://moggydaytrainer.com/g/phantom-blade-0/trainers](https://moggydaytrainer.com/g/phantom-blade-0/trainers) |
-| News | [https://moggydaytrainer.com/g/phantom-blade-0/news](https://moggydaytrainer.com/g/phantom-blade-0/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
+### Tips
 
-## Phantom Blade Zero trainer v1.0.0: +54 options
+- **God Mode** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
+- **Infinite Health** — Check this after every Phantom Blade Zero patch — values often shift.
+- **Infinite Qi** — Leave it off if you only want a mild resource boost.
+- **Infinite Stamina** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+- **Perfect Parry** — Use it to skip a grind, then turn it back off.
+- **Infinite Parry Window** — Read the live hotkey next to this name on MoggyDay.
+- **Edit Health** — Game-specific: the Phantom Blade Zero listing explains the exact effect.
+- **Edit Qi** — If two options overlap, enable one and test in a safe save.
+- **No Skill Cooldown** — Keep a screenshot of your preferred set from the site page.
+- **Infinite Skill Uses** — Not every option is safe in every mission — test first.
+- **Unlock All Weapons** — The RU page uses the same toggle order.
+- **Unlock All Stances** — Ask in comments on the trainer page if a name is unclear.
+- **Unlock All Skills** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
+- **Instant Stance Unlock** — Check this after every Phantom Blade Zero patch — values often shift.
+- **Super Damage** — Leave it off if you only want a mild resource boost.
+- **One Hit Kill** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+- **Freeze Enemies** — Use it to skip a grind, then turn it back off.
+- **Instant Stance Break** — Read the live hotkey next to this name on MoggyDay.
+- **Super Speed** — Game-specific: the Phantom Blade Zero listing explains the exact effect.
+- **No Fall Damage** — If two options overlap, enable one and test in a safe save.
+- **No Clip** — Keep a screenshot of your preferred set from the site page.
+- **Edit Level** — Not every option is safe in every mission — test first.
+- **Exp Multiplier** — The RU page uses the same toggle order.
+- **Max Cultivation** — Ask in comments on the trainer page if a name is unclear.
+- **Unlock All Outfits** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
+- **Infinite Item Uses** — Check this after every Phantom Blade Zero patch — values often shift.
+- **Max Stack Size** — Leave it off if you only want a mild resource boost.
+- **Unlock All Areas** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+- **Reveal Secrets** — Use it to skip a grind, then turn it back off.
+- **Freeze Time** — Read the live hotkey next to this name on MoggyDay.
+- **Set Game Speed** — Game-specific: the Phantom Blade Zero listing explains the exact effect.
+- **Slow Motion** — If two options overlap, enable one and test in a safe save.
+- **Save Position** — Keep a screenshot of your preferred set from the site page.
+- **Load Position** — Not every option is safe in every mission — test first.
+- **Infinite Weapon Durability** — The RU page uses the same toggle order.
+- **Unlock All Blade Arts** — Ask in comments on the trainer page if a name is unclear.
+- **No Qi Cost** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
+- **Infinite Finishers** — Check this after every Phantom Blade Zero patch — values often shift.
+- **Skip Boss Phase** — Leave it off if you only want a mild resource boost.
+- **Unlock All Lore** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+- **Max Poise / Super Armor** — Use it to skip a grind, then turn it back off.
+- **Instant Rest / Checkpoint** — Read the live hotkey next to this name on MoggyDay.
+- **Keep Currency On Death** — Game-specific: the Phantom Blade Zero listing explains the exact effect.
+- **Infinite Upgrade Materials** — If two options overlap, enable one and test in a safe save.
+- **Instant Weapon Upgrade** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Charms** — Not every option is safe in every mission — test first.
+- **Easy Martial Trials** — The RU page uses the same toggle order.
+- **Infinite Phantom Blade** — Ask in comments on the trainer page if a name is unclear.
+- **No Posture Break** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
+- **Unlock All Endings** — Check this after every Phantom Blade Zero patch — values often shift.
+- **Infinite Consumables** — Leave it off if you only want a mild resource boost.
+- **Max Spirit / Focus** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+- **Unlock All Combos** — Use it to skip a grind, then turn it back off.
+- **No Camera Lock Loss** — Read the live hotkey next to this name on MoggyDay.
 
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
+## Download
 
-| # | Option |
-|---|---|
-| 1 | Download the official MoggyDay Phantom Blade Zero trainer +54: Qi |
-| 2 | parry |
-| 3 | stances |
-| 4 | blade in TrainerHub. The option list matches the launcher pack. |
+1. Open **[Phantom Blade Zero trainer +54: Qi, parry, stances, blade [v1.0.0]](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/phantom-blade-0-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/phantom-blade-0-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Phantom Blade Zero update, reload the same URL — the slug `/f/phantom-blade-0-trainer` never moves.
 
-### What those toggles are for
+## Install (Windows)
 
-- **Download the official MoggyDay Phantom Blade Zero trainer +54: Qi** — Usually the first toggle people enable on a Phantom Blade Zero trainer.
-- **parry** — Check this after every Phantom Blade Zero patch — values often shift.
-- **stances** — Leave it off if you only want a mild resource boost.
-- **blade in TrainerHub. The option list matches the launcher pack.** — Pairs with the other combat toggles on the Phantom Blade Zero page.
+1. Close Phantom Blade Zero before trying a new build.
+2. Run only files from MoggyDay for `phantom-blade-0-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer). GitHub stays a summary.
-
-## How to download
-
-1. Open **[Phantom Blade Zero trainer +54: Qi, parry, stances, blade [v1.0.0]](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer)** or **[Phantom Blade Zero «Трейнер +54: ци, парирование, стойки, клинок» [v1.0.0]](https://moggydaytrainer.com/f/phantom-blade-0-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a Phantom Blade Zero patch, reload the same URL. We do not publish binaries as GitHub Releases.
-
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `phantom-blade-0-trainer.exe`.
-
-## What the screenshots show
-
-The first image is the Phantom Blade Zero cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/phantom-blade-0-trainer](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer).
-
-## Install notes (Windows)
-
-1. Close Phantom Blade Zero before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `phantom-blade-0-trainer`.
-3. Start the trainer, then start Phantom Blade Zero (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +54 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the Phantom Blade Zero build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/phantom-blade-0-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a Phantom Blade Zero update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**Phantom Blade Zero «Трейнер +54: ци, парирование, стойки, клинок» [v1.0.0]**
-
-Скачать трейнер Phantom Blade Zero +54 от MoggyDay: ци, парирование, стойки, клинок в TrainerHub. Официальная сборка, список функций совпадает с паком лаунчера.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/phantom-blade-0-trainer
-- Хаб Phantom Blade Zero: https://moggydaytrainer.com/g/phantom-blade-0
-- Новости: https://moggydaytrainer.com/g/phantom-blade-0/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -120,19 +184,23 @@ Yes — [Phantom Blade Zero «Трейнер +54: ци, парирование, 
 **Why GitHub at all?**
 So `Phantom Blade Zero trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
 
-`phantom blade zero trainer`, `phantom blade zero трейнер`, `phantom blade trainer`, `phantom blade трейнер`, `скачать трейнер phantom blade`, `phantom blade cheats`, `phantom blade hack`, `phantom blade trainer download`, `trainer download`, `скачать трейнер`, `moggyday trainer`, `trainerhub moggyday`, `free trainer download`, `2026`, `steam 4115450`, `официальный трейнер`
+## Search terms (English)
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+`trainer download`, `trainerhub moggyday`, `скачать трейнер`, `free trainer download`, `2026`, `moggyday trainer`, `трейнер moggyday`, `официальный трейнер`, `парирование`, `parry`, `phantom blade zero trainer`, `phantom blade zero трейнер`, `phantom blade trainer`, `phantom blade трейнер`
+
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/phantom-blade-0-trainer](https://moggydaytrainer.com/f/phantom-blade-0-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/phantom-blade-0-trainer](https://moggydaytrainer.com/zh/f/phantom-blade-0-trainer)
 
 ## Other MoggyDay trainers
 
-- ![Onimusha: Way of the Sword cover](https://moggydaytrainer.com/media/covers/onimusha-way-of-the-sword-b85701135f.jpg) [Onimusha: Way of the Sword trainer +20: health, oni gauge, red souls [v1.0.0]](https://moggydaytrainer.com/en/f/onimusha-way-of-the-sword-trainer) · [RU](https://moggydaytrainer.com/f/onimusha-way-of-the-sword-trainer)
-- ![Forever Skies cover](https://cdn.akamai.steamstatic.com/steam/apps/1641960/library_600x900_2x.jpg) [Forever Skies trainer +41: oxygen, airship hull, resources and crafting [v1.0.0]](https://moggydaytrainer.com/en/f/forever-skies-trainer) · [RU](https://moggydaytrainer.com/f/forever-skies-trainer)
-- ![Bookshop Simulator cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467040/59aee3012d79115ee3637d14d387b0494b63b316/library_capsule_2x.jpg) [Bookshop Simulator trainer +40: money, stock, customers and reputation [v1.0.0]](https://moggydaytrainer.com/en/f/bookshop-simulator-trainer) · [RU](https://moggydaytrainer.com/f/bookshop-simulator-trainer)
-- ![The Witcher 3: Wild Hunt – Remastered cover](https://moggydaytrainer.com/media/covers/the-witcher-3-wild-hunt-remastered.jpg) [The Witcher 3: Wild Hunt – Remastered trainer +54: health, orens, signs, crafting and Gwent [v1.0.0]](https://moggydaytrainer.com/en/f/the-witcher-3-wild-hunt-remastered-trainer) · [RU](https://moggydaytrainer.com/f/the-witcher-3-wild-hunt-remastered-trainer)
+- ![Bongo Cat cover](https://cdn.akamai.steamstatic.com/steam/apps/3419430/library_600x900_2x.jpg) [Bongo Cat trainer +52: points, hats, chests, auto bongo [v1.0.0]](https://moggydaytrainer.com/en/f/bongo-cat-trainer) · [RU](https://moggydaytrainer.com/f/bongo-cat-trainer)
+- ![Valor Mortis cover](https://moggydaytrainer.com/media/covers/valor-mortis-a7e00b584f.jpg) [Valor Mortis trainer +54: catalysts, ambers, parry, transmutations [v1.0.0]](https://moggydaytrainer.com/en/f/valor-mortis-trainer) · [RU](https://moggydaytrainer.com/f/valor-mortis-trainer)
+- ![Overwatch 2 cover](https://moggydaytrainer.com/media/covers/overwatch-2-016aadf1db.jpg) [OW2 Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/overwatch-2-trainer) · [RU](https://moggydaytrainer.com/f/overwatch-2-trainer)
+- ![Warframe cover](https://moggydaytrainer.com/media/covers/warframe-abd28ea582.jpg) [Warframe Hack 2026 | Free Cheat + Trainer | Free Download](https://moggydaytrainer.com/en/f/warframe-trainer) · [RU](https://moggydaytrainer.com/f/warframe-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `Phantom Blade Zero trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/phantom-blade-0-trainer](https://moggydaytrainer.com/en/f/phantom-blade-0-trainer). Screenshots hotlink MoggyDay `/media/` assets.
